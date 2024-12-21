@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294579454182",
+    "project_id": "seva-1b499",
+    "storage_bucket": "seva-1b499.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294579454182:android:1a0b8f73742e467e54bb27",
+        "android_client_info": {
+          "package_name": "codesprint.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294579454182-ku20eqi0dr5q9vj3q7ab5695332oj9n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs8mu_BRR8xGQHxPSUM7KILizuHpEKAS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294579454182-ku20eqi0dr5q9vj3q7ab5695332oj9n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
